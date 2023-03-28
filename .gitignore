@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene.umap
+StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene1.umap

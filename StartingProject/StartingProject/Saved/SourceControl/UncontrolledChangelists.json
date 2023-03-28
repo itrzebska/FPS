@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene1.umap",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Maps/NewWorld.umap",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Main.umap"
+			]
+		}
+	]
+}
