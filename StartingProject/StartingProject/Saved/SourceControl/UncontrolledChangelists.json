@@ -5,9 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GitHub/FPS/StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene1.umap",
 				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Maps/NewWorld.umap",
 				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Main.umap"
+=======
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/BP_CharacterFPS.uasset",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Animations/AB_Character.uasset",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/Arms/Arms_Animations/Arms_Aim_Idle_Breathing.uasset",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/Arms/Mesh/Mesh_Arms.uasset",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Main.umap",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/FPS_Character.uasset",
+				"C:/Users/wszec/Documents/GitHub/FPS/StartingProject/StartingProject/Content/Blueprints/NewGameModeBase.uasset",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/NewBlueprint.uasset",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/NewBlueprint.uasset",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Assets/Characters/FPS_Character.uasset",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/Main.umap",
+				"D:/GitHub/FPS/StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene1.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
